@@ -1,4 +1,4 @@
-### Hey 👋, I'm Sergei
+### 👋 Hey, I'm Sergei
 
 [![telegram](https://img.shields.io/static/v1?style=flat-square&message=telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/sergeynomad)
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:ustinov.biz@gmail.com)](mailto:ustinov.biz@gmail.com)
