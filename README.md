@@ -21,7 +21,7 @@ const me = {
   ],
   techStack: [
     '🚀 React.js',
-    '☄️ Next.js',
+    '💾 Next.js',
     '🧧 Angular',
     '🏝️ Vue.js',
     '📦 Node.js'
