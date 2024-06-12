@@ -1,3 +1,37 @@
+### Hey 👋, I'm Sergei
+
+[![telegram](https://img.shields.io/static/v1?style=flat-square&message=telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/sergeynomad)
+[![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:ustinov.biz@gmail.com)](mailto:ustinov.biz@gmail.com)
+[![Linkedln](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergustinov/)
+
+```JavaScript
+const me = {
+  education: [
+    'BS, Computer Science',
+    'MS, IT'
+  ],
+  experience: {
+    'Software Engineer': '5 years',
+  }
+  languages: [
+    '🇬🇧 English',
+    '🇷🇺 Russian',
+    '🕸 JavaScript',
+    '🤖 TypeScript',
+  ],
+  hobbies: [
+    '🏄🏻‍♂️ Surfing',
+    '🏆 Fitness',
+    '👨🏻‍💻 Bootstrapping',
+    '✈️ Travel',
+  ]
+}
+```
+
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/411d1ea4ee07244007b85987dbbb5fff59b3e05bc46dfffa280e3e4929e967f9/68747470733a2f2f692e6b796d2d63646e2e636f6d2f70686f746f732f696d616765732f6f726967696e616c2f3030312f3031302f3537322f3565352e676966"/>
+  <img src="https://i.kym-cdn.com/photos/images/original/001/010/572/5e5.gif" width="100%" height="400px"/>
 </div>
+
+<p align="center">
+<samp>Check out my repos ⬇️</samp>
+</p>
