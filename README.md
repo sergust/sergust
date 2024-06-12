@@ -8,7 +8,7 @@
 const me = {
   education: [
     'BS, Computer Science',
-    'MS, IT'
+    'MS, IT',
   ],
   experience: {
     'Software Engineer': '5 years',
@@ -33,7 +33,7 @@ const me = {
     '🧳 Travel',
   ],
   work: 'Senior Software Engineer @ Noggin',
-  location: '🇦🇺 Sydney, Australia'
+  location: '🇦🇺 Sydney, Australia',
 }
 ```
 
