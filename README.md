@@ -19,6 +19,13 @@ const me = {
     '🕸 JavaScript',
     '🤖 TypeScript',
   ],
+  techStack: [
+    '🚀 React.js',
+    '☄️ Next.js',
+    '🧧 Angular',
+    '🏝️ Vue.js',
+    '📦 Node.js'
+  ],
   hobbies: [
     '🏄🏻‍♂️ Surfing',
     '🏆 Fitness',
