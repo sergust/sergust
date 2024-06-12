@@ -23,7 +23,7 @@ const me = {
     '🏄🏻‍♂️ Surfing',
     '🏆 Fitness',
     '👨🏻‍💻 Bootstrapping',
-    '✈️ Travel',
+    '🧳 Travel',
   ]
 }
 ```
