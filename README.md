@@ -12,7 +12,7 @@ const me = {
   ],
   experience: {
     'Software Engineer': '5 years',
-  }
+  },
   languages: [
     '🇬🇧 English',
     '🇷🇺 Russian',
@@ -24,7 +24,7 @@ const me = {
     '🏆 Fitness',
     '👨🏻‍💻 Bootstrapping',
     '🧳 Travel',
-  ]
+  ],
 }
 ```
 
