@@ -32,7 +32,7 @@ const me = {
     '👨🏻‍💻 Bootstrapping',
     '🧳 Travel',
   ],
-  work: 'Senior Software Engineer @ Noggin',
+  work: 'Senior Software Engineer @ Motorola Solutions',
   location: '🇦🇺 Sydney, Australia',
 }
 ```
